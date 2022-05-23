@@ -1,4 +1,9 @@
 pub_date	title	venue	excerpt	citation	url_slug	paper_url
-2009-10-01	Paper Title Number 1	Journal 1	This paper is about the number 1. The number 2 is left for future work.	Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).	paper-title-number-1	http://academicpages.github.io/files/paper1.pdf
-2010-10-01	Paper Title Number 2	Journal 1	This paper is about the number 2. The number 3 is left for future work.	Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).	paper-title-number-2	http://academicpages.github.io/files/paper2.pdf
-2015-10-01	Paper Title Number 3	Journal 1	This paper is about the number 3. The number 4 is left for future work.	Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).	paper-title-number-3	http://academicpages.github.io/files/paper3.pdf
+2022	SPARSE: a sparse hypergraph neural network for learning multiple types of latent combinations to accurately predict drug-drug interactions	Bioinformatics	""	""	""
+2021	A survey on adverse drug reaction studies: data, tasks and machine learning methods	Briefing in Bioinformatics	""	""	""
+2021	Boosting prior knowledge in streaming variational Bayes	NeuroComputing	""	""	""
+2021	Dynamic transformation of prior knowledge into Bayesian models for data streams	IEEE Transactions on Knowledge and Data Engineering	""	""	""
+2020	Neural poisson factorization	IEEE Access	""	""	""
+2019	How to make a machine learn continuously: a tutorial of the Bayesian approach	Artificial Intelligence and Machine Learning for Multi-Domain Operations	""	""	""
+2017	Keeping priors in streaming bayesian learning	PAKDD	""	""	""
+2014	Reordering dimensions for Radial Visualization of multidimensional data—A Genetic Algorithms approach	CEC	""	""	""
