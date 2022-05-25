@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Anh Nguyen"
+name                     : &name "Duc-Anh Nguyen"
 description              : &description "personal description"
 url                      : https://anhnda.github.io # the base hostname & protocol for your site 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Anh Nguyen"
+  name             : "Duc-Anh Nguyen"
   avatar           : "profile-photo.jpeg"
   bio              : ""
   location         : #"Location"
